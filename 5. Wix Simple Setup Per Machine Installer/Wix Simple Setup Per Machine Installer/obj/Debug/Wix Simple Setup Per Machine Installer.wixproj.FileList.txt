@@ -1,0 +1,6 @@
+C:\Users\deekshith.bc\Downloads\Wix-Setup-Samples-master\Wix-Setup-Samples-master\5. Wix Simple Setup Per Machine Installer\Wix Simple Setup Per Machine Installer\bin\Debug\Wix_Simple_Setup_Per_Machine_Installer.msi
+C:\Users\deekshith.bc\Downloads\Wix-Setup-Samples-master\Wix-Setup-Samples-master\5. Wix Simple Setup Per Machine Installer\Wix Simple Setup Per Machine Installer\bin\Debug\Wix_Simple_Setup_Per_Machine_Installer.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\Wix Simple Setup Per Machine Installer.wixproj.BindContentsFileListnull.txt
+obj\Debug\Wix Simple Setup Per Machine Installer.wixproj.BindOutputsFileListnull.txt
+obj\Debug\Wix Simple Setup Per Machine Installer.wixproj.BindBuiltOutputsFileListnull.txt

@@ -1,0 +1,6 @@
+C:\Users\deekshith.bc\Downloads\Wix-Setup-Samples-master\Wix-Setup-Samples-master\7. Wix Simple Complete Setup With UI Image Banners\Wix Simple Complete Setup\bin\Debug\Setup.msi
+C:\Users\deekshith.bc\Downloads\Wix-Setup-Samples-master\Wix-Setup-Samples-master\7. Wix Simple Complete Setup With UI Image Banners\Wix Simple Complete Setup\bin\Debug\Setup.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\Wix Simple Complete Setup.wixproj.BindContentsFileListnull.txt
+obj\Debug\Wix Simple Complete Setup.wixproj.BindOutputsFileListnull.txt
+obj\Debug\Wix Simple Complete Setup.wixproj.BindBuiltOutputsFileListnull.txt

@@ -1,0 +1,6 @@
+C:\Users\deekshith.bc\Downloads\Wix-Setup-Samples-master\Wix-Setup-Samples-master\9. Wix Advanced Setup With Dependecy Installation\Wix Advanced Bootstrapper Setup 2\bin\Debug\Simple Application Setup.exe
+C:\Users\deekshith.bc\Downloads\Wix-Setup-Samples-master\Wix-Setup-Samples-master\9. Wix Advanced Setup With Dependecy Installation\Wix Advanced Bootstrapper Setup 2\bin\Debug\Simple Application Setup.wixpdb
+obj\Debug\Bundle.wixobj
+obj\Debug\Wix Advanced Bootstrapper Setup Complete.wixproj.BindContentsFileList.txt
+obj\Debug\Wix Advanced Bootstrapper Setup Complete.wixproj.BindOutputsFileList.txt
+obj\Debug\Wix Advanced Bootstrapper Setup Complete.wixproj.BindBuiltOutputsFileList.txt

@@ -1,0 +1,6 @@
+C:\Users\deekshith.bc\Downloads\Wix-Setup-Samples-master\Wix-Setup-Samples-master\4. Wix Simple Setup With Desktop Shortcut\Wix Simple Setup With Desktop Shortcut\bin\Debug\Wix_Simple_Setup_With_Desktop_Shortcut.msi
+C:\Users\deekshith.bc\Downloads\Wix-Setup-Samples-master\Wix-Setup-Samples-master\4. Wix Simple Setup With Desktop Shortcut\Wix Simple Setup With Desktop Shortcut\bin\Debug\Wix_Simple_Setup_With_Desktop_Shortcut.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\Wix Simple Setup With Desktop Shortcut.wixproj.BindContentsFileListnull.txt
+obj\Debug\Wix Simple Setup With Desktop Shortcut.wixproj.BindOutputsFileListnull.txt
+obj\Debug\Wix Simple Setup With Desktop Shortcut.wixproj.BindBuiltOutputsFileListnull.txt

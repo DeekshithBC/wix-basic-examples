@@ -1,0 +1,16 @@
+C:\Users\deekshith.bc\Downloads\Wix-Setup-Samples-master\Wix-Setup-Samples-master\Sample Application\Sample Application\bin\Debug\logo.ico
+C:\Users\deekshith.bc\Downloads\Wix-Setup-Samples-master\Wix-Setup-Samples-master\Sample Application\Sample Application\bin\Debug\Sample Application.exe.config
+C:\Users\deekshith.bc\Downloads\Wix-Setup-Samples-master\Wix-Setup-Samples-master\Sample Application\Sample Application\bin\Debug\Sample Application.exe
+C:\Users\deekshith.bc\Downloads\Wix-Setup-Samples-master\Wix-Setup-Samples-master\Sample Application\Sample Application\bin\Debug\Sample Application.pdb
+C:\Users\deekshith.bc\Downloads\Wix-Setup-Samples-master\Wix-Setup-Samples-master\Sample Application\Sample Application\obj\Debug\SampleApplication.csproj.AssemblyReference.cache
+C:\Users\deekshith.bc\Downloads\Wix-Setup-Samples-master\Wix-Setup-Samples-master\Sample Application\Sample Application\obj\Debug\SampleApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\deekshith.bc\Downloads\Wix-Setup-Samples-master\Wix-Setup-Samples-master\Sample Application\Sample Application\obj\Debug\MainWindow.baml
+C:\Users\deekshith.bc\Downloads\Wix-Setup-Samples-master\Wix-Setup-Samples-master\Sample Application\Sample Application\obj\Debug\MainWindow.g.cs
+C:\Users\deekshith.bc\Downloads\Wix-Setup-Samples-master\Wix-Setup-Samples-master\Sample Application\Sample Application\obj\Debug\App.g.cs
+C:\Users\deekshith.bc\Downloads\Wix-Setup-Samples-master\Wix-Setup-Samples-master\Sample Application\Sample Application\obj\Debug\Sample Application_MarkupCompile.cache
+C:\Users\deekshith.bc\Downloads\Wix-Setup-Samples-master\Wix-Setup-Samples-master\Sample Application\Sample Application\obj\Debug\Sample Application.g.resources
+C:\Users\deekshith.bc\Downloads\Wix-Setup-Samples-master\Wix-Setup-Samples-master\Sample Application\Sample Application\obj\Debug\Sample_Application.Properties.Resources.resources
+C:\Users\deekshith.bc\Downloads\Wix-Setup-Samples-master\Wix-Setup-Samples-master\Sample Application\Sample Application\obj\Debug\SampleApplication.csproj.GenerateResource.cache
+C:\Users\deekshith.bc\Downloads\Wix-Setup-Samples-master\Wix-Setup-Samples-master\Sample Application\Sample Application\obj\Debug\SampleApplication.csproj.CoreCompileInputs.cache
+C:\Users\deekshith.bc\Downloads\Wix-Setup-Samples-master\Wix-Setup-Samples-master\Sample Application\Sample Application\obj\Debug\Sample Application.exe
+C:\Users\deekshith.bc\Downloads\Wix-Setup-Samples-master\Wix-Setup-Samples-master\Sample Application\Sample Application\obj\Debug\Sample Application.pdb

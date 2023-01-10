@@ -1,0 +1,6 @@
+C:\Users\deekshith.bc\Downloads\Wix-Setup-Samples-master\Wix-Setup-Samples-master\3. Wix Simple Setup With Start Menu Shortcut\Wix Simple Setup StartMenu Shortcut\bin\Release\Wix_Simple_Setup_StartMenu_Shortcut.msi
+C:\Users\deekshith.bc\Downloads\Wix-Setup-Samples-master\Wix-Setup-Samples-master\3. Wix Simple Setup With Start Menu Shortcut\Wix Simple Setup StartMenu Shortcut\bin\Release\Wix_Simple_Setup_StartMenu_Shortcut.wixpdb
+obj\Release\Product.wixobj
+obj\Release\Wix Simple Setup StartMenu Shortcut.wixproj.BindContentsFileListnull.txt
+obj\Release\Wix Simple Setup StartMenu Shortcut.wixproj.BindOutputsFileListnull.txt
+obj\Release\Wix Simple Setup StartMenu Shortcut.wixproj.BindBuiltOutputsFileListnull.txt

@@ -1,0 +1,2 @@
+C:\Users\deekshith.bc\Downloads\Wix-Setup-Samples-master\Wix-Setup-Samples-master\Sample Application\Sample Application\bin\Debug\Sample Application.exe
+C:\Users\deekshith.bc\Downloads\Wix-Setup-Samples-master\Wix-Setup-Samples-master\Sample Application\Sample Application\bin\Debug\Sample Application.exe.config

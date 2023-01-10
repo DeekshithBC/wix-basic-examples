@@ -1,0 +1,2 @@
+C:\Users\deekshith.bc\Downloads\Wix-Setup-Samples-master\Wix-Setup-Samples-master\1. Wix Simple Setup\Wix Simple Setup\bin\Debug\Sample Application Setup.msi
+C:\Users\deekshith.bc\Downloads\Wix-Setup-Samples-master\Wix-Setup-Samples-master\1. Wix Simple Setup\Wix Simple Setup\bin\Debug\Sample Application Setup.wixpdb

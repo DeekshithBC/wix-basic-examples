@@ -1,0 +1,2 @@
+C:\Users\deekshith.bc\Downloads\Wix-Setup-Samples-master\Wix-Setup-Samples-master\6. Wix Simple Setup Per User Installer\Wix Simple Setup PerUser Installer\bin\Debug\Wix_Simple_Setup_PerUser_Installer.msi
+C:\Users\deekshith.bc\Downloads\Wix-Setup-Samples-master\Wix-Setup-Samples-master\6. Wix Simple Setup Per User Installer\Wix Simple Setup PerUser Installer\bin\Debug\Wix_Simple_Setup_PerUser_Installer.wixpdb

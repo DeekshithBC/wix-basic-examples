@@ -1,0 +1,3 @@
+
+C:\Users\deekshith.bc\Downloads\Wix-Setup-Samples-master\Wix-Setup-Samples-master\9. Wix Advanced Setup With Dependecy Installation\Wix Advanced Bootstrapper Setup 2\Resources\NDP452-KB2901907-x86-x64-AllOS-ENU.exe
+C:\Users\deekshith.bc\Downloads\Wix-Setup-Samples-master\Wix-Setup-Samples-master\7. Wix Simple Complete Setup With UI Image Banners\Wix Simple Complete Setup\bin\Debug\Setup.msi
